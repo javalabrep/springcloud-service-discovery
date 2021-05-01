@@ -37,6 +37,6 @@ subprojects {
 apply plugin: 'idea'
 idea {
 	module{
-		name = 'master-springcloud'
+		name = 'master'
 	}
 }
